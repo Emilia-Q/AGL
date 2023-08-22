@@ -5,7 +5,7 @@ The goal of this language is to have a superset of C like C++ etc, but one that 
 The end goal is to also make a dependancy management/build tool inspired by cargo which will work with both C and AGL.
 
 How AGL works
-
+```
 // Types:
 int.8,  int.u8
 int.16, int.u16
@@ -77,3 +77,4 @@ func consitional_examples() -> void {
         else {}
     }
 }
+```
