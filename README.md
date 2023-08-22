@@ -57,9 +57,6 @@ func loop_example() -> void {
     while(condition) {
         //body
     }
-    for(def; condition; action) {
-        //body
-    }
     for(enumerable_value) {
         //body
     }
