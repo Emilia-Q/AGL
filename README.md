@@ -52,7 +52,6 @@ sub name {
 }
 
 // Loops:
-
 func loop_example() -> void {
     while(condition) {
         //body
@@ -74,4 +73,23 @@ func consitional_examples() -> void {
         else {}
     }
 }
+
+// Structs: 
+
+struct name {
+    init()
+
+    var ....
+    ....
+    ....
+    func ....
+    ....
+    ....
+}
+
+func struct_example() {
+    var example: name()
+    example.publicThing()
+}
+
 ```
